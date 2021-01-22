@@ -1,14 +1,15 @@
 # FRC - 2021 - The Swerve Strikes Back
 
 ## Todo List
-- [x] Command Based Structure
-- [ ] Add Swerve Control Code
-  - [ ] 4 Wheel Modules
-  - [ ] Arbitrary Wheel Counts
-  - [ ] Driver Station UI
-- [ ] Shooter Code
-- [ ] Climb Code
-- [ ] Target Tracking
+- 
+- ✅ Command Based Structure
+- 🟩 Add Swerve Control Code
+  - 🟩 4 Wheel Modules
+  - 🟩 Arbitrary Wheel Counts
+  - 🟩 Driver Station UI
+- 🟩 Shooter Code
+- 🟩 Climb Code
+- 🟩 Target Tracking
 
 ## How do I download this code Mr. Dylan of the past?
 Well child, download git, open up the command line and enter this command!
