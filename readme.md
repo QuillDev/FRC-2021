@@ -1,15 +1,20 @@
 # FRC - 2021 - The Swerve Strikes Back
-
 ## Todo List
-- ✅ Command Based Structure
-- 🟩 Add Swerve Control Code
-  - 🟩 4 Wheel Modules
-  - 🟩 Arbitrary Wheel Counts
-  - 🟩 Driver Station UI
-- 🟩 Shooter Code
-- 🟩 Climb Code
-- 🟩 Target Tracking
-
+- [x] Command Based Structure
+- [ ] Add Swerve Control Code
+  - [ ] 4 Wheel Modules
+  - [ ] Arbitrary Wheel Counts
+  - [ ] Anti-Drift Code (NavX IMU)  
+  - [ ] Driver Station UI
+- [ ] Shooter Code
+  - [ ] Variable RPM Adjustment
+  - [ ] [Distance Estimation](https://docs.limelightvision.io/en/latest/cs_estimating_distance.html)  
+  - [ ] Target Tracking
+- [ ] Autonomous Routine
+  - [ ] Automatic Path Following
+- [ ] Climb Code
+  - [ ] Get build team to make a climber!
+  - [ ] Automated climb routine?
 ## How do I download this code Mr. Dylan of the past?
 Well child, download git, open up the command line and enter this command!
 ```bash
@@ -23,6 +28,6 @@ code .
 It will open VSCode (hopefully the one with WPILib installed)
 If that didn't open in the FRC 20XX Version (whatever the current year is) of vscode
 then just manually open it in vscode by doing:
-> (File->Open Folder->X:/XXXX/FRC-2021)
+> (File->Open Folder->path/to/folder/FRC-2021)
 
 Good luck person of the future!
