@@ -4,6 +4,7 @@
 - [ ] Add Swerve Control Code
   - [ ] 4 Wheel Modules
   - [ ] Arbitrary Wheel Counts
+  - [ ] Builder Pattern for new modules.  
   - [ ] Anti-Drift Code (NavX IMU)  
   - [ ] Driver Station UI
 - [ ] Shooter Code
