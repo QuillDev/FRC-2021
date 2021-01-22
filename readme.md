@@ -1,7 +1,6 @@
 # FRC - 2021 - The Swerve Strikes Back
 
 ## Todo List
-- 
 - ✅ Command Based Structure
 - 🟩 Add Swerve Control Code
   - 🟩 4 Wheel Modules
