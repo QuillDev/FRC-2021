@@ -1,5 +1,5 @@
 # FRC - 2021 - The Swerve Strikes Back
-## Todo List
+## Todo List - [ Ordered By Priority - Sub-Priority ]
 - [x] Command Based Structure
 - [ ] Add Swerve Control Code
   - [ ] 4 Wheel Modules
@@ -15,6 +15,7 @@
 - [ ] Climb Code
   - [ ] Get build team to make a climber!
   - [ ] Automated climb routine?
+- [ ] Write C++ Version for future students to reference?  
 ## How do I download this code Mr. Dylan of the past?
 Well child, download git, open up the command line and enter this command!
 ```bash
